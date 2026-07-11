@@ -49,6 +49,6 @@
 <div align="center">
  
 [![](https://img.shields.io/badge/gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=gabrielvitorcontato1@gmail.com&su=Assunto%20do%20email&body=Olá%20Gabriel,)
- [![](https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/gabriel-vitor-512282368/)
+ [![](https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/gabriel-vitor-92369237a/,)
 
 </div>
