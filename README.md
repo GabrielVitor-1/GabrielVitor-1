@@ -1,8 +1,19 @@
-### Olá, Sou o  Gabriel Vitor
+# Olá, eu sou Gabriel Vitor 👋
 
-- 🔭 Atualmente estou trabalhando com Assistência técnica
+Cloud & Infrastructure • Full Stack • Network Solutions
 
--💻 Formação em Sistemas de informação
+Desenvolvedor focado em construir aplicações modernas, infraestrutura e soluções para empresas.
+
+Atualmente desenvolvendo:
+
+🎫 PiriPass
+Plataforma SaaS para assinaturas e benefícios turísticos.
+
+🏡 Chácaras Morro Grande
+Landing Page profissional com foco em SEO e conversão.
+
+🌐 Network Solutions
+Projetos de infraestrutura, monitoramento e redes.
 
  ## Minhas estatísticas do github
 
