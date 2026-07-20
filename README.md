@@ -42,19 +42,35 @@ Projetos de infraestrutura, monitoramento e redes.
 
 **Ferramentas:**
 
-  ![](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-  ![](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-  ![](https://img.shields.io/badge/Miro-050038.svg?&style=for-the-badge&logo=miro&logoColor=white)
-  ![](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
-  ![](https://img.shields.io/badge/Discord-5865f2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
-  ![](https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=white)
-  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+Frontend
+
+Next.js
+React
+TypeScript
+Tailwind
+
+Backend
+
+Node
+Supabase
+
+Database
+
+PostgreSQL
+MySQL
+
+Infra
+
+Docker
+Git
+Linux
+
+
 
   **Sistemas Operacionais:**
-
-  ![](https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white)
+  
+Windows
+Linux
 
   ## Fale comigo
 <div align="center">
