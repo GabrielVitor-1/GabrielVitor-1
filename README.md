@@ -1,19 +1,35 @@
-# Olá, eu sou Gabriel Vitor 👋
+#Olá, eu sou Gabriel Vitor 👋
 
 Cloud & Infrastructure • Full Stack • Network Solutions
 
-Desenvolvedor focado em construir aplicações modernas, infraestrutura e soluções para empresas.
+Desenvolvedor e analista de suporte focado em construir aplicações modernas, infraestrutura resiliente e soluções de rede para empresas. Uberlândia, MG - Brasil 🇧🇷
 
-Atualmente desenvolvendo:
-
+🚀 Projetos em destaque
 🎫 PiriPass
-Plataforma SaaS para assinaturas e benefícios turísticos.
+
+Plataforma SaaS para assinaturas e benefícios turísticos. TypeScript Next.js Supabase
 
 🏡 Chácaras Morro Grande
-Landing Page profissional com foco em SEO e conversão.
+
+Landing page profissional com foco em SEO e conversão. Next.js Tailwind SEO
 
 🌐 Network Solutions
-Projetos de infraestrutura, monitoramento e redes.
+
+Projetos de infraestrutura, monitoramento e redes. Linux Docker Redes
+
+🛠️ Stack
+
+Frontend Next.js · React · TypeScript · Tailwind
+
+Backend Node · Supabase
+
+Database PostgreSQL · MySQL
+
+ORM Sequelize · TypeORM · Prisma
+
+Infra Docker · Git · Linux
+
+Sistemas Operacionais Windows · Linu
 
  ## Minhas estatísticas do github
 
