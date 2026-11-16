@@ -5,9 +5,9 @@ Cloud & Infrastructure • Full Stack • Network Solutions
 Desenvolvedor e analista de suporte focado em construir aplicações modernas, infraestrutura resiliente e soluções de rede para empresas. Uberlândia, MG - Brasil 🇧🇷
 
 🚀 Projetos em destaque
-🎫 PiriPass
+🎫 Pagina ponto.
 
-Plataforma SaaS para assinaturas e benefícios turísticos. TypeScript Next.js Supabase
+🌐 paginaponto.com.br
 
 🏡 Chácaras Morro Grande
 
